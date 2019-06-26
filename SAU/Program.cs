@@ -17,6 +17,8 @@ namespace SAU
 
             test = test + "gooooood";
 
+            Console.WriteLine(test);
+
         }
     }
 }
