@@ -8,6 +8,9 @@ namespace SAU
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("haha");
+            string test;
+            test = Console.ReadLine();
+
         }
     }
 }
