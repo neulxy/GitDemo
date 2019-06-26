@@ -12,6 +12,11 @@ namespace SAU
             int stuid = 5;
             test = Console.ReadLine();
 
+
+            stuid = stuid * 3;
+
+            test = test + "gooooood";
+
         }
     }
 }
