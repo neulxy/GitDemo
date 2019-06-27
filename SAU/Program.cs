@@ -16,6 +16,7 @@ namespace SAU
             stuid = stuid * 3;
 
             test = test + "gooooood";
+            test = "nothing again";
 
             Console.WriteLine(test);
 
