@@ -20,6 +20,8 @@ namespace SAU
 
             Console.WriteLine(test);
 
+            test = "an example";
+
         }
     }
 }
